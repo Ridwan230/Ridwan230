@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there, this is Ridwan 👋
 
+I am an AI enthusiast highly interested in NLP research, currently working on ethical data visualization techniques using LLMs. 
+
+Check out my google [scholars](https://scholar.google.ca/citations?user=LKMc1l8AAAAJ&hl=en) profile page for recent publications.
 <!--
 **Ridwan230/Ridwan230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
